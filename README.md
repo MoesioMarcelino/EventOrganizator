@@ -1,4 +1,4 @@
-# Event Organizator
+# :calendar: Event Organizator
 
 Event Organizator is a project developed in my time to College for help you to manage your events. This project is able to confirm your presence through email address.
 
